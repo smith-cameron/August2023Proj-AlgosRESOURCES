@@ -20,6 +20,14 @@
 ## GitHub
 [.gitignore generator](https://www.toptal.com/developers/gitignore)
 
+## Coding Dojo
+[PT-Bullitien Board](https://sites.google.com/codingdojo.com/part-time-bb/dojo-hall)
+
+[GitHub Review/Tutorials](https://sites.google.com/codingdojo.com/part-time-bb/events/git?authuser=0)
+
 ## MSC
-https://www.chingu.io/
-https://sites.google.com/codingdojo.com/part-time-bb/dojo-hall
+
+
+
+## Collaboration
+[Chingu](https://www.chingu.io/)
