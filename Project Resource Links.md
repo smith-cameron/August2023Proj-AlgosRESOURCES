@@ -78,6 +78,7 @@
 - [securecodewarrior](https://portal.securecodewarrior.com/#/contextual-microlearning/web/injection/sql/python/django)
 - [hackerhero](https://www.hackerhero.com/)
 - [techyeverything.com/coding-games](https://techyeverything.com/coding-games/)
+- [neetcode](https://neetcode.io/)
 
 ### Resources
 - [t-diagrams](https://pythontutor.com/)
@@ -87,6 +88,8 @@
 - [wikipedia/Binary Search Tree](https://en.wikipedia.org/wiki/Binary_search_tree)
 - [wikipedia/Hash Table](https://en.wikipedia.org/wiki/Hash_table)
 - [wikipedia/Linked List](https://en.wikipedia.org/wiki/Linked_list)
+- [14-patterns-to-ace-any-coding-interview-question](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
+- [blind-75-leetcode-questions](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)
 
 ## Images / Fonts
 - [Stock Images](https://www.pexels.com/)
