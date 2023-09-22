@@ -51,6 +51,8 @@
 
 ## Coding Dojo
 - [PT-Bullitien Board](https://sites.google.com/codingdojo.com/part-time-bb/dojo-hall)
+- [Student Support](support@codingdojo.com)
+- [Career Services](csm@codingdojo.com)
 
 ## MSC
 - [w3 schools](https://www.w3schools.com/)
@@ -61,6 +63,9 @@
 - [The Python Standard Library](https://docs.python.org/3/library/index.html)
 - [PEP8](https://peps.python.org/pep-0008/)
 - [Jinja](https://jinja.palletsprojects.com/en/3.1.x/)
+- [pretty print](https://docs.python.org/3/library/pprint.html)
+- [Flask Cheat Sheet](https://docs.google.com/document/d/1k-Q5aiv9uYFxClLIyjcujnZLSUoQqqVj9Fzqz9dhajM/edit?usp=sharing)
+- [Formatting date/time strings](https://devhints.io/strftime)
 ### Java
 - [Java](https://www.oracle.com/java/technologies/)
 - [external-api in Spring](https://www.geeksforgeeks.org/how-to-call-or-consume-external-api-in-spring-boot/)
@@ -90,6 +95,10 @@
 - [wikipedia/Linked List](https://en.wikipedia.org/wiki/Linked_list)
 - [14-patterns-to-ace-any-coding-interview-question](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
 - [blind-75-leetcode-questions](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)
+
+## VSCode
+- [Keyboard shortcuts - Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
+- [Keyboard shortcuts - Mac](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
 
 ## Images / Fonts
 - [Stock Images](https://www.pexels.com/)
@@ -131,3 +140,7 @@
 - [Flexbox Defense](http://www.flexboxdefense.com/)
 - [Code Pen Flex Playground](https://codepen.io/WolfsVeteran/pen/bGNzqQM)
 - [learngitbranching](https://learngitbranching.js.org/)
+
+## Regular Expressions
+- [Regex101](https://regex101.com/)
+- 
