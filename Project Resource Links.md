@@ -66,6 +66,10 @@
 - [pretty print](https://docs.python.org/3/library/pprint.html)
 - [Flask Cheat Sheet](https://docs.google.com/document/d/1k-Q5aiv9uYFxClLIyjcujnZLSUoQqqVj9Fzqz9dhajM/edit?usp=sharing)
 - [Formatting date/time strings](https://devhints.io/strftime)
+- [ERD Creation & Forward Engineering(slides)](https://docs.google.com/presentation/d/1G5AoYPRKG3E54nBtkjvu0PZAmxvygYGyI-U9j6nnJhs/edit#slide=id.g1c24e327bd4_0_86)
+- [CRUD Query Structure(slides)](https://docs.google.com/presentation/d/1STD18JBWbJ4Uf4sKs29n3LDYNiOqqdj81YsHd6_bBJc/edit#slide=id.g1faf63aeea0_0_18)
+- [Virtual Environments(slides)](https://docs.google.com/presentation/d/1hwh4uBx8muebywa0UokKU_S1qoUWiUB8V0G-fi3FHzk/edit#slide=id.g1fcd69f6571_0_34)
+- [Modularization Structure(slides)](https://docs.google.com/presentation/d/1YHtSVb9tWj8BGqHaOIjDDi3lduvFZ-jM82Il3nKWHKY/edit#slide=id.g1c5b644c92f_0_25)
 ### Java
 - [Java](https://www.oracle.com/java/technologies/)
 - [external-api in Spring](https://www.geeksforgeeks.org/how-to-call-or-consume-external-api-in-spring-boot/)
@@ -143,4 +147,3 @@
 
 ## Regular Expressions
 - [Regex101](https://regex101.com/)
-- 
